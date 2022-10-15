@@ -5,3 +5,4 @@ exlude =
     manage.py,
     settings.py
 max-line-length = 160
+ignore = E501
